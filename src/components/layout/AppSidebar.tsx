@@ -46,7 +46,7 @@ export function AppSidebar() {
           <Menu className="w-6 h-6" />
         </button>
         <Heart className="w-5 h-5 text-sidebar-primary" />
-        <span className="font-display font-bold text-sidebar-foreground text-lg">CareHub</span>
+        <span className="font-display font-bold text-sidebar-foreground text-lg">Young at Heart</span>
       </div>
 
       {/* Mobile overlay */}
@@ -57,7 +57,7 @@ export function AppSidebar() {
             <div className="flex items-center justify-between px-5 h-14">
               <div className="flex items-center gap-2">
                 <Heart className="w-6 h-6 text-sidebar-primary" />
-                <span className="font-display font-bold text-sidebar-foreground text-xl">CareHub</span>
+                <span className="font-display font-bold text-sidebar-foreground text-xl">Young at Heart</span>
               </div>
               <button onClick={() => setMobileOpen(false)} className="text-sidebar-foreground p-1">
                 <X className="w-5 h-5" />
@@ -96,7 +96,7 @@ export function AppSidebar() {
         <div className="flex items-center h-14 px-4 gap-2">
           <Heart className="w-6 h-6 text-sidebar-primary flex-shrink-0" />
           {!collapsed && (
-            <span className="font-display font-bold text-sidebar-foreground text-xl truncate">CareHub</span>
+            <span className="font-display font-bold text-sidebar-foreground text-xl truncate">Young at Heart</span>
           )}
         </div>
 
