@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Home Health and Adult Daycare EMR
 
 ## Project info
 
