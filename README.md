@@ -166,7 +166,7 @@ I built CareHub as a product prototype to explore three things simultaneously:
 
 1. **AI-assisted development at speed** — using Lovable and Claude to compress a concept that would normally take months into a working prototype
 2. **Applied AI in healthcare operations** — specifically how a context-aware assistant can reduce documentation burden and scheduling friction for field staff who are already stretched thin
-3. **Personal context** — my wife and I own and operate [Young at Heart Adult Daycare & Home Health](https://youngatheartcare.com), so the workflows in this app reflect real operational pain I've watched up close
+3. **Personal context** — my wife and I own and operate [Young at Heart Adult Daycare & Home Health](https://youngathearthc.info), so the workflows in this app reflect real operational pain I've watched up close
 
 This sits at the intersection of my work as a Product Lead for AI/ML at Knowtion Health and 25+ years of product management across healthcare, autonomous vehicles, and IoT.
 
